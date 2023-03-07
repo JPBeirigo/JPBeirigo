@@ -14,11 +14,10 @@
  
  <br>
  
-  ### Pra me encontrar nas redes sociais clique nos botões abaixo!
+  ### Para contato profissional, ir até o perfil do Linkedin abaixo!
  
 <div> 
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/joão-pedro-ferreira-beirigo-8130b7269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Grannek/Grannek/blob/output/github-contribution-grid-snake.svg)
 
