@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Grannek 😁
+## Bem-vindo(a) ao meu perfil do GitHub 😁
 
  <div>
    <a href="https://github.com/Grannek">
