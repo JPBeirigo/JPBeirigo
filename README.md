@@ -1,8 +1,6 @@
 <h1 align="center">Olá! Meu nome é João Pedro</h1>
 <h3 align="center">Um desenvolvedor novato de Orlândia, interior de São Paulo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpbeirigo&label=Profile%20views&color=545692&style=flat" alt="jpbeirigo" /> </p>
-
 - 🔭 Atualmente estou trabalhando em **expandir meus horizontes**
 
 - 🌱 Atualmente estou aprendendo **Python e desenvolvimento mobile**
@@ -11,7 +9,7 @@
 
 - 🤝 Gostaria de ajuda com **dicas e sugestões do que posso melhorar**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/joão-pedro-ferreira-beirigo-8130b7269/ </h3>
 <p align="left">
 </p>
 
@@ -26,3 +24,5 @@
   <img  src="https://github.com/jpbeirigo/codigo-snake-pfp/blob/master/animation/snake.gif"
        alt="snake" />
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpbeirigo&label=Profile%20views&color=545692&style=flat" alt="jpbeirigo" /> </p>
