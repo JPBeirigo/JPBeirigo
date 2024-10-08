@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Meu nome é João Pedro</h1>
+<h1 align="center">Olá! Meu nome é João Pedro </h1> 
 <h3 align="center">Um desenvolvedor novato de Orlândia, interior de São Paulo</h3>
 
 - 🔭 Atualmente estou trabalhando em **expandir meus horizontes**
@@ -23,7 +23,7 @@
 ## Databases
 ![PL](https://img.shields.io/badge/PL%2FSQL-FFFFFF?style=for-the-badge&logo=oracle&logoColor=FF0000&labelColor=FFFFFF&color=FF0000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-## Status
+## Status and Most Used Languages
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpbeirigo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jpbeirigo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpbeirigo&show_icons=true&theme=tokyonight&locale=en" alt="jpbeirigo" /></p>
 
@@ -32,4 +32,4 @@
        alt="snake" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jpbeirigo&label=Profile%20views&color=545692&style=flat" alt="jpbeirigo" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=jpbeirigo&label=Profile%20views&color=545692&style=flat" alt="jpbeirigo" /> </p>
