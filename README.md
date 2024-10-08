@@ -27,6 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpbeirigo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="jpbeirigo" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jpbeirigo&show_icons=true&theme=tokyonight&locale=en" alt="jpbeirigo" /></p>
 
+## Streak
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JPBeirigo&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <div align="center">
   <img  src="https://github.com/jpbeirigo/codigo-snake-pfp/blob/master/animation/snake.gif"
        alt="snake" />
