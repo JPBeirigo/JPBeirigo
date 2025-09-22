@@ -9,7 +9,7 @@
 
 - 🔭 I'm currently working on  **expanding my horizons**
 
-- 🌱 I'm currently learning **AI and automation**
+- 🌱 I'm currently learning **AI and automation using Arduino**
 
 - 👯 I look forward to collaborate on new projects **in areas i'm not experienced yet**
 
