@@ -7,9 +7,9 @@
 <h3 align="center">A novice developer from Orlândia, in the countryside of São Paulo, Brazil
 </h3>
 
-- 🔭 I'm currently working on  **expanding my horizons**
+- 🔭 I'm currently working on a PCG algorithm for 2D games
 
-- 🌱 I'm currently learning **AI and automation using Arduino**
+- 🌱 I'm currently learning Docker and robotics using Arduino and ESP
 
 - 👯 I look forward to collaborate on new projects **in areas i'm not experienced yet**
 
